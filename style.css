@@ -1,0 +1,28 @@
+body {  
+    font-family: "PT Sans Narrow", Arial, sans-serif;    
+  }
+  
+  .wrapper {
+   
+    max-width: 1024px;
+    margin: 0 auto;
+    
+  }
+
+  header {
+    text-align: center;     
+  }  
+
+  .photo {
+    display: block;
+       
+  }
+  
+  section {
+    margin: 0 auto;
+    text-align: justify;
+  }
+  
+  footer{
+    text-align: center;
+  }

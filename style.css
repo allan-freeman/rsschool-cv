@@ -22,6 +22,10 @@ body {
     margin: 0 auto;
     text-align: justify;
   }
+
+  .code-examples-link {
+    font-size: 18px;
+  }
   
   footer{
     text-align: center;
